@@ -1,8 +1,9 @@
 {
-	"version": "0.1.0",
+	"version": "0.2.0",
 	"id": "AThousandRobots.FreeLancerKeepWeapons",
 	"name": "FreeLancerKeepWeapons",
 	"description": "Keep Weapons on death",
 	"authors": ["AThousandRobots"],
-	"frameworkVersion": "2.12.4"
+	"frameworkVersion": "2.12.4",
+	"updateCheck": "https://github.com/EveryOneOfMyThousandRobots/hitman3_freelancer_keepweapons/releases/latest/download/updates.json"
 }
