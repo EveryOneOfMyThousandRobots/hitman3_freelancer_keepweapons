@@ -1,8 +1,8 @@
 {
 	"version": "0.1.0",
-	"id": "YourPreferredAlias.AnIDForTheMod",
-	"name": "Incredible Mod",
-	"description": "A truly amazing mod",
-	"authors": ["Your Preferred Alias"],
+	"id": "AThousandRobots.FreeLancerKeepWeapons",
+	"name": "FreeLancerKeepWeapons",
+	"description": "Keep Weapons on death",
+	"authors": ["AThousandRobots"],
 	"frameworkVersion": "2.12.4"
 }
